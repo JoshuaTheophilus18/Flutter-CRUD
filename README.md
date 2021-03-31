@@ -1,6 +1,7 @@
-# flutter_vs_code
+# Flutter-CRUD
 
-A new Flutter project.
+A new Flutter project for simple CRUD process. In this example, process request to api using mockAPI.
+For further information about mockAPI click this link : https://mockapi.io/
 
 ## Getting Started
 
